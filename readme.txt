@@ -1,8 +1,6 @@
-Fetch User Projects on Behance using Graphql route.
+Projects on Behance using private GraphQL route.
 
-No Longer Working Methods.
+Examples directory holds both guzzle and wp examples for Projects, Moodboard, and Gallery urls.
 
-1. API Keys are no longer issued.
-2. Scraping via XML Request No longer works after website changes.
+Final directory holds the final code being used.
 
-examples directory holds guzzle and wp examples for Projects and Moodboard and for getting the full resolution images for a gallery
